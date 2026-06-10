@@ -1,4 +1,4 @@
-## Hitesh Kumar Gupta
+## Hi there 👋
 
 Research and Development Intern at IIT Kharagpur, working on NLP and information retrieval with
 Prof. Koustav Rudra. Third-year CSE undergraduate, largely self-taught, focused
